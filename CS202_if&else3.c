@@ -1,5 +1,4 @@
 #include <stdio.h>
-#include <stdlib.h>
 int main()
 {
     /*Program to find out net salary*/
@@ -23,3 +22,4 @@ int main()
 
     return 0;
 }
+
