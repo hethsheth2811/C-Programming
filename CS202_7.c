@@ -1,5 +1,4 @@
 #include <stdio.h>
-#include <stdlib.h>
 int main()
 {
     /*Program to convert minutes into hours*/
@@ -13,3 +12,4 @@ int main()
 
     return 0;
 }
+
