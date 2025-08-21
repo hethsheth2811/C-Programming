@@ -1,5 +1,4 @@
 #include <stdio.h>
-#include <stdlib.h>
 int main()
 {
     /*Program to calculate area and perimeter of rectangle*/
@@ -13,3 +12,4 @@ int main()
 
     return 0;
 }
+
