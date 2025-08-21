@@ -1,5 +1,4 @@
 #include <stdio.h>
-#include <stdlib.h>
 int main()
 {
     /*Program to calculate net sales*/
@@ -12,3 +11,4 @@ int main()
 
     return 0;
 }
+
