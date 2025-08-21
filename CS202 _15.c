@@ -1,5 +1,4 @@
 #include <stdio.h>
-#include <stdlib.h>
 int main()
 {
     /*Program to convert Fahrenheit into celsius*/
@@ -9,3 +8,4 @@ int main()
     printf("%f\n",fahrenheit=(celsius*1.8)+32);
     return 0;
 }
+
