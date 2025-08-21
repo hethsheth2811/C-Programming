@@ -1,5 +1,4 @@
 #include <stdio.h>
-#include <stdlib.h>
 int main()
 {
     /*Program to calculate simple interest*/
@@ -13,3 +12,4 @@ int main()
     printf("Simple interest is :%f\n", simple_interest = (principal * rate * time) / 100);
     return 0;
 }
+
