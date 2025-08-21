@@ -1,5 +1,4 @@
 #include <stdio.h>
-#include <stdlib.h>
 int main()
 {
     /*Program to add, subtract, multiply & divide 2 Nos.*/
@@ -16,3 +15,4 @@ int main()
 
     return 0;
 }
+
