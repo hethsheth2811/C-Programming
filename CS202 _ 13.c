@@ -1,5 +1,4 @@
 #include <stdio.h>
-#include <stdlib.h>
 int main()
 {
     /*Program to convert bytes into KB, MB and GB*/
@@ -12,3 +11,4 @@ int main()
 
     return 0;
 }
+
