@@ -1,5 +1,4 @@
 #include <stdio.h>
-#include <stdlib.h>
 int main()
 {
     /*Program to find whether the number is divisible by 7*/
@@ -18,3 +17,4 @@ int main()
 
     return 0;
 }
+
