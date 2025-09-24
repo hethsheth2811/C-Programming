@@ -5,7 +5,7 @@ int main()
     int n,sum=0;
     printf("Enter the number:");
     scanf("%d",&n);
-    printf("The first N Natural Nos. are:");
+    printf("The sum of first N Natural Nos. are:");
     for(int i=1;i<=n;i++){
             sum=sum+i;
     }
@@ -13,3 +13,4 @@ int main()
 
     return 0;
 }
+
