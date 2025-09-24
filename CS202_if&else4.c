@@ -13,8 +13,14 @@ int main()
     printf("The total marks obtained are:%f\n",total);
     average=(sub_1+sub_2+sub_3)/3;
     printf("The average marks obtained are:%f\n",average);
-    if(average>=70){
+    if(sub_1||sub_2||sub_3<35){
+        printf("Fail");
+    }
+    else if(average>=70){
         printf("Grade:distinction");
+    }
+    else if(average>=60){
+        printf("Grade:first class");
     }
     else if (average>=50){
         printf("Grade:second class");
@@ -26,8 +32,8 @@ int main()
        {printf("Grade:fail");}
 
 
-
-
     return 0;
 }
+
+
 
